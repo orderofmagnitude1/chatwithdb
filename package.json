@@ -22,7 +22,7 @@
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
     "@cloudflare/vite-plugin": "0.1.9",
-    "@cloudflare/vitest-pool-workers": "^0.7.6",
+    "@cloudflare/vitest-pool-workers": "^0.23.0",
     "@cloudflare/workers-types": "^4.20250303.0",
     "@tailwindcss/vite": "^4.0.10",
     "@types/node": "^22.13.9",
